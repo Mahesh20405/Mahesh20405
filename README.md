@@ -39,9 +39,6 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahesh20405&theme=aura_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh20405&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mahesh20405&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Mahesh20405&icon=6&color=4)](https://visitcount.itsvg.in)
 
