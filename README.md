@@ -8,7 +8,7 @@ Hello there! 👋 I'm Mahesh R, a 20-year-old aspiring Data Scientist from Puduk
 - 🏫 Completed my schooling at Sudharsan Vidhya Mandir Matriculation Higher Secondary School, Pudukkottai.
 
 ## Interests
-- 💻 Passionate about Data Science, particularly interested in exploring machine learning algorithms and cloud computing.
+- 💻 Passionate about Data Science, particularly interested in exploring machine learning algorithms and neural networks.
 - 💡 Enjoy coding in programming languages like Java and Python.
 - 📊 Looking forward to a career in Data Analysis or any role related to Data Science.
 
