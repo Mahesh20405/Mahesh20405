@@ -1,7 +1,7 @@
 ![logo](https://github.com/Mahesh20405/Mahesh20405/blob/main/Banner.png)
 # Mahesh R - Data Science Enthusiast
 
-Hello there! 👋 I'm Mahesh R, a 20-year-old aspiring Data Scientist from Pudukkottai, Tamil Nadu. Welcome to my GitHub profile!
+Hi I'm Mahesh R, a 20-year-old aspiring Data Scientist from Pudukkottai, Tamil Nadu. Welcome to my GitHub profile.
 
 ## About Me
 - 🎓 Currently pursuing my Bachelor's degree in Technology in the field of Artificial Intelligence and Data Science at Kongunadu College of Engineering and Technology.
