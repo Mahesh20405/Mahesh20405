@@ -24,11 +24,6 @@ I'm Mahesh R, Welcome to my GitHub profile.
 - ✉️ Email: maheshsekaran724@gmail.com
 - 📞 Phone: (+91) 7010610585
 
-## Fun Fact
-- 🎮 Whenever I get my hands on a gaming controller, it's hard for me to stop playing, especially when it comes to story-driven games that fascinate me the most!
-
-Feel free to reach out to me for collaborations, discussions, or just to say hello! Let's connect and explore the world of Data Science together. 🚀
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-r10) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/maheshsekaran724) 
 
