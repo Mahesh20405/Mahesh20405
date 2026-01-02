@@ -1,5 +1,5 @@
 ![logo](https://github.com/Mahesh20405/Mahesh20405/blob/main/Banner.png)
-# Mahesh R - Data Science Enthusiast
+# Mahesh R
 
 I'm Mahesh R, Welcome to my GitHub profile.
 
