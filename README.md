@@ -11,7 +11,7 @@ AI & Data Science graduate working in software development, with interests in AI
 
 ## Research Publications
 - **SecureRAG: A Configurable Local Small Language Model Pipeline with Role-Scoped Data Isolation and PII Masking for Enterprise Knowledge Retrieval.** Published in IEEE Xplore, 2026. [Read paper](https://ieeexplore.ieee.org/document/11708816)
-- **Distilling Intelligence: Deploying Lightweight Neural Networks on ESP32 for Edge AI.** Published in IEEE Xplore, IEEE CVMI 2025. [Search IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Distilling%20Intelligence%20Deploying%20Lightweight%20Neural%20Networks%20on%20ESP32%20for%20Edge%20AI)
+- **Distilling Intelligence: Deploying Lightweight Neural Networks on ESP32 for Edge AI.** Published in IEEE Xplore, IEEE CVMI 2025. [Read paper](https://ieeexplore.ieee.org/document/11337588)
 
 ## Interests
 - AI and machine learning
