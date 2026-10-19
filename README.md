@@ -6,7 +6,6 @@ AI & Data Science graduate working in software development, with interests in AI
 
 ## About Me
 - B.Tech in Artificial Intelligence and Data Science, Kongunadu College of Engineering and Technology.
-- Developer Intern at ProHance, working toward Java full-stack development.
 - Research interests include edge AI, lightweight neural networks, and privacy-conscious enterprise AI.
 
 ## Research Publications
