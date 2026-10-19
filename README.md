@@ -65,7 +65,7 @@ AI & Data Science graduate working in software development, with interests in AI
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mahesh20405&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Mahesh20405&theme=aura_dark&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahesh20405&theme=aura_dark&hide_border=true)
 
